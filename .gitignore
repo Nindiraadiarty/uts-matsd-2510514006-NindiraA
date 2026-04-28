@@ -1,3 +1,5 @@
 *.asv
-*.slxc
-*.mex*
+slprj/
+*.tmp
+*.bak
+
